@@ -1,2 +1,2 @@
 # ece-331
-Data Viz
+Data Visualization @ The Cooper Union
